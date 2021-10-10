@@ -1,5 +1,5 @@
 {
-  "name": "Chrome Cookie Clearer",
+  "name": "Nothecookies",
   "manifest_version": 3,
   "version": "1.5",
   "permissions": ["cookies"],
