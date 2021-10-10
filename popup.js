@@ -26,7 +26,7 @@ async function handleFormSubmit(event) {
 
   let url = stringToUrl(input.value);
   if (!url) {
-    setMessage("Invalid URL");
+    setMessage("Invalid URL!");
     return;
   }
 
