@@ -1,2 +1,2 @@
 # ChromeCookieCleaner
-A Normal extension for Chrome that removes all website cookies ;)
+A Normal extension for Chrome that removes all website cookies! ;)
